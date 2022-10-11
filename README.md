@@ -1,5 +1,3 @@
-<div align="center">
-
 # :cat: Hello Bangul!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimbangul&count_bg=%23000000&title_bg=%23FF6D6D&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -17,5 +15,4 @@
 ### :art: Design Tech
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&amp;logo=Adobe Illustrator&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&amp;logo=Adobe After Effects&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white&amp;"/>
 
-</div>
 
