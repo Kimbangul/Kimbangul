@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimbangul&count_bg=%23000000&title_bg=%23FF6D6D&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimbangul&show_icons=true&theme=dracula)](https://github.com/Kimbangul)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbangul&layout=compact&langs_count=6)](https://github.com/Kimbangul)<br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbangul)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbangul)](https://velog.io/@kimbangul/posts)
 
 
 ### :computer: Develop Tech
